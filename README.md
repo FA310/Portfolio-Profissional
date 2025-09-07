@@ -8,3 +8,4 @@ Habilidades-Chave:
   a) Design e Arquitetura: Planejamento da interface do usuário (UI) e da estrutura de navegação
   b) Implementação: Construção completa do site, com foco em um design responsivo que se adapta a diferentes dispositivos.
   c) Resultados: Um website pessoal, funcional e com design responsivo, que serve como portfólio.
+https://fabioabitante.my.canva.site/ 
