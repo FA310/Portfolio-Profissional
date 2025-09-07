@@ -1,6 +1,6 @@
 # Portfolio-Hub
 Portfolio Hub
-Desenvolvimento Web Pessoal
+Desenvolvimento Website Pessoal
 Criei um website pessoal do zero para servir como minha plataforma de apresentação, 
 Utilizei o Canvas como ferramenta central de elaboração. 
 O projeto demonstra minha capacidade de transformar uma ideia em uma presença online funcional e visualmente agradável.
