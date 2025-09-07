@@ -1,7 +1,10 @@
 # Portfolio-Profissional
 Portfolio Profissional
-1. Desenvolvimento de Website 
-a) Neste projeto, apliquei minhas habilidades em desenvolvimento web para criar um site funcional e com design responsivo. O processo incluiu:
-b) Na elaboração do website usei o Canvas para criar a estrutura do conteúdo e a paleta de cores, e depois para aplicar o estilo e o layout.
-c) Design e Estrutura: Planejei a arquitetura e a interface do usuário (UI), garantindo uma navegação intuitiva.
-d) Na implementação do website, este foi construído do zero, demonstrando minha capacidade de transformar uma ideia em uma página web para apresentacao pessoal.
+Desenvolvimento Web Pessoal
+Criei um website pessoal do zero para servir como minha plataforma de apresentação, 
+Utilizei o Canvas como ferramenta central de elaboração. 
+O projeto demonstra minha capacidade de transformar uma ideia em uma presença online funcional e visualmente agradável.
+Habilidades-Chave:
+  a) Design e Arquitetura: Planejamento da interface do usuário (UI) e da estrutura de navegação
+  b) Implementação: Construção completa do site, com foco em um design responsivo que se adapta a diferentes dispositivos.
+  c) Resultados: Um website pessoal, funcional e com design responsivo, que serve como portfólio.
